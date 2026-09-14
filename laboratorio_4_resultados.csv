@@ -1,0 +1,31 @@
+﻿review_id,text,categoria_ejemplo,sentiment,sentiment_score,entities,entity_count
+1,El café estaba delicioso y el pan recién horneado. Salí muy satisfecho con la compra.,positivo,POS,0.9658893346786499,[],0
+2,Los audífonos tienen un sonido excelente y son muy cómodos. Los recomiendo totalmente.,positivo,POS,0.9776679277420044,[],0
+3,La habitación estaba impecable y la cama era comodísima. Pasamos una estancia maravillosa.,positivo,POS,0.9777582883834839,[],0
+4,Mi pedido llegó antes de lo previsto y todo venía perfectamente protegido. Excelente servicio.,positivo,POS,0.905631959438324,[],0
+5,La aplicación es fácil de usar y me permitió comprar en pocos minutos. Me encantó la experiencia.,positivo,POS,0.971836507320404,[],0
+6,"La pizza llegó fría, quemada y con ingredientes equivocados. Fue una compra pésima.",negativo,NEG,0.9805261492729187,[],0
+7,Los zapatos se rompieron después de dos días de uso. La calidad es terrible.,negativo,NEG,0.9683886766433716,[],0
+8,Esperé una hora para recibir una respuesta grosera. El servicio fue decepcionante.,negativo,NEG,0.97917240858078,[],0
+9,La habitación estaba sucia y olía a humedad. La estancia fue desagradable.,negativo,NEG,0.9585586190223694,[],0
+10,La aplicación se cierra cada vez que intento pagar. Comprar aquí resulta frustrante.,negativo,NEG,0.9794620871543884,[],0
+11,"La comida estaba deliciosa, pero tardaron demasiado en servirla.",mixto,POS,0.4718703329563141,[],0
+12,"La cámara toma fotos excelentes, aunque la batería dura muy poco.",mixto,POS,0.8310816884040833,[],0
+13,"El hotel tiene una vista hermosa, pero el ruido de la calle impide descansar.",mixto,NEU,0.4303955137729645,[],0
+14,"El paquete llegó rápido, aunque el producto tenía varios rayones.",mixto,NEU,0.823432207107544,[],0
+15,"El personal fue amable y resolvió mis dudas, pero el precio final me pareció excesivo.",mixto,NEG,0.8031789064407349,[],0
+16,No me gustó la sopa: estaba demasiado salada y apenas pude terminarla.,negacion,NEG,0.9411672949790955,[],0
+17,No tengo ninguna queja; el pedido llegó completo y en perfecto estado.,negacion,POS,0.8987484574317932,[],0
+18,"El producto no es malo, aunque esperaba una mejor presentación.",negacion,NEU,0.5922002196311951,[],0
+19,Nunca había recibido una atención tan buena. Volveré con mucho gusto.,negacion,POS,0.9432805180549622,[],0
+20,"No volvería a comprar aquí, ni siquiera con un descuento.",negacion,NEG,0.5406126379966736,[],0
+21,"La asesora Lucía Brisaverde me atendió muy bien en Tiendas Nube Clara, en Villa Luminaria.",entidades,POS,0.9580000042915344,"[{""label"": ""PER"", ""text"": ""Lucía Brisaverde"", ""score"": 0.9988259077072144}, {""label"": ""LOC"", ""text"": ""Tien"", ""score"": 0.961993932723999}, {""label"": ""LOC"", ""text"": ""das Nube Clara"", ""score"": 0.9169274568557739}, {""label"": ""LOC"", ""text"": ""Villa Luminaria"", ""score"": 0.9992905259132385}]",4
+22,"Mateo Soldebrisa, de Mensajería Faro Violeta, entregó mi paquete roto en Puerto Lunaclara. Quedé muy molesto.",entidades,NEG,0.9580039381980896,"[{""label"": ""PER"", ""text"": ""Mateo Soldebrisa"", ""score"": 0.9990960359573364}, {""label"": ""ORG"", ""text"": ""Mensaje"", ""score"": 0.8342053294181824}, {""label"": ""ORG"", ""text"": ""ría Faro Violeta"", ""score"": 0.9157439470291138}, {""label"": ""LOC"", ""text"": ""Puerto Lunaclara"", ""score"": 0.999406099319458}]",4
+23,"En el Hotel Jardín de Cobre, ubicado en Valle Nacarino, Elena Marazul fue amable, pero la habitación estaba sucia.",entidades,NEU,0.7662509083747864,"[{""label"": ""LOC"", ""text"": ""Hotel Jardín de Cobre"", ""score"": 0.9941340684890747}, {""label"": ""LOC"", ""text"": ""Valle Nacarino"", ""score"": 0.9990332126617432}, {""label"": ""PER"", ""text"": ""Elena Marazul"", ""score"": 0.999543309211731}]",3
+24,"Tomás Cielomanso preparó un café delicioso en Cafetería Cometa Azul, en Ciudad Alboral. Recomiendo la visita.",entidades,POS,0.9636951684951782,"[{""label"": ""PER"", ""text"": ""Tomás Cielomanso"", ""score"": 0.9979564547538757}, {""label"": ""LOC"", ""text"": ""Ca"", ""score"": 0.8448517918586731}, {""label"": ""LOC"", ""text"": ""fete"", ""score"": 0.8219170570373535}, {""label"": ""LOC"", ""text"": ""ría Cometa Azul"", ""score"": 0.9606414437294006}, {""label"": ""LOC"", ""text"": ""Ciudad Alboral"", ""score"": 0.999386191368103}]",5
+25,"Sara Ventoluna, de Librería Bosque de Papel, confirmó que mi pedido estará disponible mañana en San Olmo de Bruma.",entidades,NEU,0.7694545388221741,"[{""label"": ""PER"", ""text"": ""Sara Ventoluna"", ""score"": 0.999279260635376}, {""label"": ""ORG"", ""text"": ""Libre"", ""score"": 0.9996910095214844}, {""label"": ""ORG"", ""text"": ""ría Bosque de Papel"", ""score"": 0.9995409846305847}, {""label"": ""LOC"", ""text"": ""San Olmo de Bruma"", ""score"": 0.9992880821228027}]",4
+26,El paquete contiene dos cuadernos y un lápiz.,neutral_adicional,NEU,0.8512519598007202,[],0
+27,Compré la versión de quinientos mililitros y elegí el envase azul.,neutral_adicional,NEU,0.8375236392021179,[],0
+28,El recibo indica que la compra se realizó el martes por la tarde.,neutral_adicional,NEU,0.8872010111808777,[],0
+29,La tienda ofrece retiro en sucursal y entrega a domicilio.,neutral_adicional,NEU,0.8767017126083374,[],0
+30,El manual viene en español y se encuentra dentro de la caja.,neutral_adicional,NEU,0.8617600202560425,[],0
