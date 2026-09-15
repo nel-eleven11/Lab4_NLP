@@ -1,0 +1,6 @@
+﻿review_id,text,categoria_ejemplo,sentiment,sentiment_score
+13,"El hotel tiene una vista hermosa, pero el ruido de la calle impide descansar.",mixto,NEU,0.4303955137729645
+11,"La comida estaba deliciosa, pero tardaron demasiado en servirla.",mixto,POS,0.4718703329563141
+20,"No volvería a comprar aquí, ni siquiera con un descuento.",negacion,NEG,0.5406126379966736
+18,"El producto no es malo, aunque esperaba una mejor presentación.",negacion,NEU,0.5922002196311951
+23,"En el Hotel Jardín de Cobre, ubicado en Valle Nacarino, Elena Marazul fue amable, pero la habitación estaba sucia.",entidades,NEU,0.7662509083747864

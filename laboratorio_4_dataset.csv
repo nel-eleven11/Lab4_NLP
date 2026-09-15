@@ -1,0 +1,31 @@
+﻿review_id,categoria_ejemplo,text
+1,positivo,El café estaba delicioso y el pan recién horneado. Salí muy satisfecho con la compra.
+2,positivo,Los audífonos tienen un sonido excelente y son muy cómodos. Los recomiendo totalmente.
+3,positivo,La habitación estaba impecable y la cama era comodísima. Pasamos una estancia maravillosa.
+4,positivo,Mi pedido llegó antes de lo previsto y todo venía perfectamente protegido. Excelente servicio.
+5,positivo,La aplicación es fácil de usar y me permitió comprar en pocos minutos. Me encantó la experiencia.
+6,negativo,"La pizza llegó fría, quemada y con ingredientes equivocados. Fue una compra pésima."
+7,negativo,Los zapatos se rompieron después de dos días de uso. La calidad es terrible.
+8,negativo,Esperé una hora para recibir una respuesta grosera. El servicio fue decepcionante.
+9,negativo,La habitación estaba sucia y olía a humedad. La estancia fue desagradable.
+10,negativo,La aplicación se cierra cada vez que intento pagar. Comprar aquí resulta frustrante.
+11,mixto,"La comida estaba deliciosa, pero tardaron demasiado en servirla."
+12,mixto,"La cámara toma fotos excelentes, aunque la batería dura muy poco."
+13,mixto,"El hotel tiene una vista hermosa, pero el ruido de la calle impide descansar."
+14,mixto,"El paquete llegó rápido, aunque el producto tenía varios rayones."
+15,mixto,"El personal fue amable y resolvió mis dudas, pero el precio final me pareció excesivo."
+16,negacion,No me gustó la sopa: estaba demasiado salada y apenas pude terminarla.
+17,negacion,No tengo ninguna queja; el pedido llegó completo y en perfecto estado.
+18,negacion,"El producto no es malo, aunque esperaba una mejor presentación."
+19,negacion,Nunca había recibido una atención tan buena. Volveré con mucho gusto.
+20,negacion,"No volvería a comprar aquí, ni siquiera con un descuento."
+21,entidades,"La asesora Lucía Brisaverde me atendió muy bien en Tiendas Nube Clara, en Villa Luminaria."
+22,entidades,"Mateo Soldebrisa, de Mensajería Faro Violeta, entregó mi paquete roto en Puerto Lunaclara. Quedé muy molesto."
+23,entidades,"En el Hotel Jardín de Cobre, ubicado en Valle Nacarino, Elena Marazul fue amable, pero la habitación estaba sucia."
+24,entidades,"Tomás Cielomanso preparó un café delicioso en Cafetería Cometa Azul, en Ciudad Alboral. Recomiendo la visita."
+25,entidades,"Sara Ventoluna, de Librería Bosque de Papel, confirmó que mi pedido estará disponible mañana en San Olmo de Bruma."
+26,neutral_adicional,El paquete contiene dos cuadernos y un lápiz.
+27,neutral_adicional,Compré la versión de quinientos mililitros y elegí el envase azul.
+28,neutral_adicional,El recibo indica que la compra se realizó el martes por la tarde.
+29,neutral_adicional,La tienda ofrece retiro en sucursal y entrega a domicilio.
+30,neutral_adicional,El manual viene en español y se encuentra dentro de la caja.
